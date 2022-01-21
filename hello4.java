@@ -1,10 +1,9 @@
 class A{  
-static public void main(String... args){  
-<<<<<<< HEAD
-System.out.println("hello java7");  
-=======
+static public void main(String);
+System.out.println("hello java7);
+System.out.println( hii satya");
 System.out.println( Hii Pooja");  
->>>>>>> 7ac504a60ce8d0e3d0104e1680398caceb727559
 System.out.println("hello python");                   
+System.out.println( Hii Galu");
 }  
 };  
