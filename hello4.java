@@ -5,5 +5,6 @@ System.out.println("hello java7");
 =======
 System.out.println( Hii Pooja");  
 >>>>>>> 7ac504a60ce8d0e3d0104e1680398caceb727559
+System.out.println("hello python");                   
 }  
 };  
